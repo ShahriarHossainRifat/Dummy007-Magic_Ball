@@ -5,7 +5,7 @@ void main() {
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
     home: Scaffold(
-      backgroundColor: Colors.red.shade500,
+      backgroundColor: Colors.blue[900],
       appBar: AppBar(
         backgroundColor: Colors.grey.shade900,
         title: Text('Ask Me Anything'),
